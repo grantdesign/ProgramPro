@@ -1,5 +1,5 @@
 # ProgramPro
-## WordPress blog
+## Blog WordPress
 
 - Home page
 
